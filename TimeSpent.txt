@@ -1,0 +1,25 @@
+Document:
+   TimeSpent.txt
+==============================================================================================
+Events:
+   Met with sponsor and discussed current project status
+   Downloaded and built last year's project
+==============================================================================================
+Tasks Completed:
+   Obtained list of potential system testers
+   Downloaded and built code
+==============================================================================================
+Issues:
+   Found inital bugs in old code that will need fixed
+==============================================================================================
+Expectations:
+   Team
+    Attend all meetings - met
+    Build initial code  - met/unkown
+==============================================================================================
+Next Week Tasks:
+   Meet with last year's team members and understand bugs
+   Meet with last year's team members and get an overview of the code structure
+   Begin correcting bugs
+   Begin tests with C# to iOS conversion
+   Possibly Update documentation
